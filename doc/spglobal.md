@@ -9,4 +9,4 @@
 
 [sector index](https://www.spglobal.com/spdji/en/indices/equity/sp-north-american-technology-sector-index/#overview)
 
-[software-index](https://www.spglobal.com/spdji/en/indices/equity/sp-north-american-technology-software-index/#overview)
+[software index](https://www.spglobal.com/spdji/en/indices/equity/sp-north-american-technology-software-index/#overview)
