@@ -1,3 +1,5 @@
+[yahoo quote](https://finance.yahoo.com/quote/IGN?p=IGN)
+
 CSCO
 Cisco Systems Inc	Ordinary shares	8.93%
 CIEN
