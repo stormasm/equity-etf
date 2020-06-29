@@ -7,6 +7,8 @@
 
 [multimedia networking index](https://www.spglobal.com/spdji/en/indices/equity/sp-north-american-technology-multimedia-networking-index/#overview)
 
+[ishares multimedia networking etf](https://www.ishares.com/us/products/239770/ishares-north-american-techmultimedia-networking-etf)
+
 [sector index](https://www.spglobal.com/spdji/en/indices/equity/sp-north-american-technology-sector-index/#overview)
 
 [software index](https://www.spglobal.com/spdji/en/indices/equity/sp-north-american-technology-software-index/#overview)
