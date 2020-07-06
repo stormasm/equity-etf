@@ -1,13 +1,4 @@
-﻿iShares Preferred and Income Securities ETF
-Fund Holdings as of,"Jul 02, 2020"
-Inception Date,"Mar 26, 2007"
-Shares Outstanding,"442,650,000.00"
-Stock,"-"
-Bond,"-"
-Cash,"-"
-Other,"-"
- 
-Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Maturity,Market Currency
+﻿Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,CUSIP,ISIN,SEDOL,Price,Location,Exchange,Currency,FX Rate,Maturity,Market Currency
 "AVGO","BROADCOM INC","Information Technology","Equity","324,530,242.40","2.12","256,939,786.09","289,604.00","11135F200","US11135F2002","BKTDW14","1,120.60","United States","-","USD","1.00","Sep 30, 2022","USD"
 "WFC","WELLS FARGO & COMPANY SERIES L","Financials","Equity","240,237,945.24","1.57","13,514,912.95","182,276.00","949746804","US9497468044","B3KRSW9","1,317.99","United States","New York Stock Exchange Inc.","USD","1.00","Dec 31, 2049","USD"
 "CCI","CROWN CASTLE INTERNATIONAL CORP","Real Estate","Equity","221,983,681.40","1.45","217,635,531.48","144,794.00","22822V309","US22822V3096","BF0C7S7","1,533.10","United States","-","USD","1.00","Aug 01, 2020","USD"
